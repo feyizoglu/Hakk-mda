@@ -1,1 +1,3 @@
-# hakkimda
+# Hakkımda
+![preview](./Hakkımda.gif)
+ 
